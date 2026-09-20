@@ -7,6 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Host: diameterrigazebo.github.io
-
-Sitemap: https://diameterrigazebo.github.io/disCOrD-ZapREt/sitemap.xml
+Sitemap: https://github.com/Diameterrigazebo/disCOrD-ZapREt
